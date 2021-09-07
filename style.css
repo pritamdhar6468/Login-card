@@ -1,0 +1,26 @@
+.body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    border: burlywood;
+    width: auto;
+}
+
+.nav-item{
+    
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#help-id{
+    text-align: right;
+    border: blanchedalmond;
+    border-radius: 20%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    box-shadow: black;
+}
+#help-id.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
