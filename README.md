@@ -1,4 +1,4 @@
-# AUTHENTICATION SYSTEM
+# Login card
 Thanks for visiting
 
 This project leads you to an Attractive Animation Based UI design *Authentication System* with HTML and CSS only.
